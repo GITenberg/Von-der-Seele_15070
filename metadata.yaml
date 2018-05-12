@@ -1,0 +1,31 @@
+_repo: Von-der-Seele_15070
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schleich, Carl Ludwig
+    aliases:
+    - Schleich, Karl Ludwig
+    - Schleich, C. L. (Carl Ludwig)
+    birthdate: 1859
+    deathdate: 1922
+    gutenberg_agent_id: '5825'
+    url: http://www.gutenberg.org/2009/agents/5825
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2005-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15070'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soul'
+- !lcc 'BF'
+- !lcsh 'Psychology'
+title: Von der Seele
+url: http://www.gutenberg.org/ebooks/15070
